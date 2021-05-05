@@ -7,6 +7,8 @@
 
 import UIKit
 
+let weatherMapAppId = "4d0287c5a3c576379202e3298ed9cdeb"
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
